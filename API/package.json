@@ -1,0 +1,35 @@
+{
+  "name": "intermodular",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Participantes: Leobardo S. Ríos Suárez ; ",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Alumnos IES Pere Maria Orts I Bosch",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.20.1",
+    "bootstrap": "^5.2.3",
+    "cookie-parser": "~1.4.4",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "express": "^4.16.4",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.6.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.4",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.8.4",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.31.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
